@@ -1,0 +1,11 @@
+.PlayerList{
+    padding:5px 0px;
+    border:  1px solid ghostwhite;
+    margin:10px;
+    background-color:aqua;
+    box-shadow: 5px 5px 5px rgba(0,255)
+}
+.PlayerList img{
+    border: 20px solid red;
+    border-radius: 30px;
+}

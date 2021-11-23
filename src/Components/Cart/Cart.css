@@ -1,0 +1,11 @@
+.cart-style{
+    text-align:center;
+    color:white;
+    padding-left: 10px;
+}
+.cart-style h1{
+    background-color: black;
+}
+.total{
+    background-color:black;
+}
